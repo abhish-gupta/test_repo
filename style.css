@@ -16,8 +16,7 @@ body{
     margin: 20px;
     width: auto;
   }
-  
-  .topnav {
+ .topnav {
     overflow: hidden;
     background-color: rgb(247, 243, 243);
     height: 70px;
